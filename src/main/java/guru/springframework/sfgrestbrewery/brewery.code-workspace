@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../beerClient"
+		},
+		{
+			"name": "sfg-reactive-brewery",
+			"path": "../../../../../.."
+		}
+	],
+	"settings": {}
+}
